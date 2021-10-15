@@ -1,0 +1,85 @@
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+    margin-top: 60px;
+}
+.margin{
+    margin-left: 50px;
+}
+.carousel-item{
+    padding: 20px 30px;
+}
+.btn-price{
+    color:#ff136f;
+    font-size: 24px;
+}
+.btn-clr{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff136f 100%);
+    border: none;
+    color: #fff;
+    padding: 8px 15px;
+    text-transform: capitalize;
+    cursor:pointer;
+    font-weight: 500;
+    border-radius: 5px;
+}
+.categories{
+    margin-top: 60px;
+}
+.categories h1{
+    color:white;
+}
+.categories img{
+    width: 90px;
+}
+.cat-1{
+    background-color: orange;
+    padding: 10px 0;
+    border-radius: 10px;
+}
+.cat-2{
+    background-color: #fd3481;
+    padding: 10px 0;
+    border-radius: 10px;
+}
+.cat-3{
+    background-color: blue;
+    padding: 10px 0;
+    border-radius: 10px;
+}
+.shoes-collection{
+    margin: 60px 0;
+}
+.shoes-collection h1{
+    margin: 30px 0;
+}
+
+.card{
+    border:none;
+    box-shadow: 5px 5px 7px lightgray;
+}
+.backpack-collection{
+    margin: 60px 0;
+}
+.backpack-collection h1{
+    margin:30px 0 ;
+}
+.contact-us{
+    height: 320px;
+    margin: 60px 0;
+}
+.contact-us h6{
+    font-weight: 400;
+}
+.contact-us .btn-clr{
+    display: inline-block;
+    margin-top: 10px;
+}
+
+footer{
+    margin-bottom: 35px;
+}
+footer p{
+    text-align: center;
+
+}
